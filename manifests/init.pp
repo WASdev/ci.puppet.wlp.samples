@@ -1,7 +1,5 @@
 # Class: samples
-# <Modify this>
-# The setup_acmeair module will help augment the existing extreme scale installation with configuration and data needed by the AcmeAir application.
-# This module serves as reference implementation on integrating applications running on liberty and the exterme scale.
+# The samples module aims to provide various manifests that would help configure and deploy samples on WebSphere liberty profile.
 #
 # Parameters
 # 
